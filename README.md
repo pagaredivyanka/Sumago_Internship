@@ -1,2 +1,2 @@
 # Sumago
-Web development Internship includes (MERN Stack) 
+Web development Internship - (MERN Stack) 
